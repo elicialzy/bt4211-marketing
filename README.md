@@ -12,6 +12,8 @@ BT4211 Data-Driven Marketing project on hotel marketing &amp; segmentation
 ````
 $ pip install -r ./requirements.txt
 ````
+Credit Card Dataset used in this project can be found in reference 6.
+
 ## Summary
 This project outlines the measures undertaken to help a credit card company to identify its customer segments to strengthen customer retention and revenue through some suggested marketing strategies the team has developed. 
 
